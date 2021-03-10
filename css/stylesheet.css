@@ -32,6 +32,10 @@ a {
 	color: cyan;
 }
 
+ul {
+        background-color: #222;
+}
+
 /* Header */
 
 header {
@@ -67,7 +71,6 @@ header h1 {
 .nav {
 	list-style: none;
 	display: flex;
-        background-color: #222;
 }
 
 .nav:not(:first-child) li {
