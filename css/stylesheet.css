@@ -34,7 +34,7 @@ a {
 
 ul {
         background-color: #222;
-        width: 100%;
+        
 }
 
 /* Header */
@@ -61,7 +61,6 @@ header {
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
-	padding-right: 20px;
 }
 
 header h1 {
